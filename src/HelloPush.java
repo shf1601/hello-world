@@ -6,7 +6,5 @@ public class HelloPush {
 		Calculator calc = new Calculator();
 		int sum = calc.add(5, 5);
 		System.out.println("" + sum);
-		System.out.println(""+calc.fibonnaci(1, 1, 100));
-		System.out.println("what");
 	}
 }
