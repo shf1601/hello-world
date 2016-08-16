@@ -23,4 +23,8 @@ public class Calculator {
 		else
 			return fibonnaci(m, sum, limit);
 	}
+
+	public int subtract(int n, int m){
+		return n - m;
+	}
 }
